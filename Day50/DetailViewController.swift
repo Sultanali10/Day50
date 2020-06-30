@@ -13,4 +13,9 @@ class DetailViewController: UIViewController {
     @IBOutlet var detailLabe: UILabel!
     
     @IBOutlet var detailImage: UIImageView!
+    
+    override func viewDidLoad() {
+        detailLabe.text = ViewController.transText
+        detailImage.image = ViewController.transImage
+    }
 }

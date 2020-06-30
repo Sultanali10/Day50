@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7F173DF624ABCC3600A860E1 /* Pic.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F173DF524ABCC3600A860E1 /* Pic.swift */; };
 		7F6A950424A8AD4800761A91 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F6A950324A8AD4800761A91 /* AppDelegate.swift */; };
 		7F6A950624A8AD4800761A91 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F6A950524A8AD4800761A91 /* SceneDelegate.swift */; };
 		7F6A950824A8AD4800761A91 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F6A950724A8AD4800761A91 /* ViewController.swift */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7F173DF524ABCC3600A860E1 /* Pic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pic.swift; sourceTree = "<group>"; };
 		7F6A950024A8AD4800761A91 /* Day50.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Day50.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7F6A950324A8AD4800761A91 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7F6A950524A8AD4800761A91 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				7F6A950324A8AD4800761A91 /* AppDelegate.swift */,
 				7F6A950524A8AD4800761A91 /* SceneDelegate.swift */,
 				7F6A950724A8AD4800761A91 /* ViewController.swift */,
+				7F173DF524ABCC3600A860E1 /* Pic.swift */,
 				7F6A950924A8AD4800761A91 /* Main.storyboard */,
 				7F6A950C24A8AD4D00761A91 /* Assets.xcassets */,
 				7F6A950E24A8AD4D00761A91 /* LaunchScreen.storyboard */,
@@ -144,6 +147,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7F173DF624ABCC3600A860E1 /* Pic.swift in Sources */,
 				7F6A950824A8AD4800761A91 /* ViewController.swift in Sources */,
 				7F6A950424A8AD4800761A91 /* AppDelegate.swift in Sources */,
 				7F6A951A24A8C7AF00761A91 /* DetailViewController.swift in Sources */,
