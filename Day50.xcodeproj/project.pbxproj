@@ -13,6 +13,8 @@
 		7F6A950B24A8AD4800761A91 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7F6A950924A8AD4800761A91 /* Main.storyboard */; };
 		7F6A950D24A8AD4D00761A91 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7F6A950C24A8AD4D00761A91 /* Assets.xcassets */; };
 		7F6A951024A8AD4D00761A91 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7F6A950E24A8AD4D00761A91 /* LaunchScreen.storyboard */; };
+		7F6A951824A8AEFD00761A91 /* CustomCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F6A951724A8AEFD00761A91 /* CustomCell.swift */; };
+		7F6A951A24A8C7AF00761A91 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F6A951924A8C7AF00761A91 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		7F6A950C24A8AD4D00761A91 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7F6A950F24A8AD4D00761A91 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7F6A951124A8AD4D00761A91 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7F6A951724A8AEFD00761A91 /* CustomCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCell.swift; sourceTree = "<group>"; };
+		7F6A951924A8C7AF00761A91 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				7F6A950C24A8AD4D00761A91 /* Assets.xcassets */,
 				7F6A950E24A8AD4D00761A91 /* LaunchScreen.storyboard */,
 				7F6A951124A8AD4D00761A91 /* Info.plist */,
+				7F6A951724A8AEFD00761A91 /* CustomCell.swift */,
+				7F6A951924A8C7AF00761A91 /* DetailViewController.swift */,
 			);
 			path = Day50;
 			sourceTree = "<group>";
@@ -140,6 +146,8 @@
 			files = (
 				7F6A950824A8AD4800761A91 /* ViewController.swift in Sources */,
 				7F6A950424A8AD4800761A91 /* AppDelegate.swift in Sources */,
+				7F6A951A24A8C7AF00761A91 /* DetailViewController.swift in Sources */,
+				7F6A951824A8AEFD00761A91 /* CustomCell.swift in Sources */,
 				7F6A950624A8AD4800761A91 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
